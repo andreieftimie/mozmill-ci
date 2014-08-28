@@ -142,7 +142,6 @@
             "mozilla-aurora": {
                 "locales": [
                     "en-US",
-                    "fa",
                     "zh-CN"
                 ],
                 "testruns": [
@@ -177,7 +176,6 @@
             "mozilla-esr31": {
                 "locales": [
                     "en-US",
-                    "fa",
                     "zh-CN"
                 ],
                 "testruns": [
@@ -212,7 +210,6 @@
             "mozilla-esr24": {
                 "locales": [
                     "en-US",
-                    "fa",
                     "zh-CN"
                 ],
                 "testruns": [
