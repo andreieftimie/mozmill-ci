@@ -141,6 +141,7 @@
             },
             "mozilla-aurora": {
                 "locales": [
+                    "ar",
                     "en-US",
                     "zh-CN"
                 ],
@@ -175,6 +176,7 @@
             },
             "mozilla-esr31": {
                 "locales": [
+                    "ar",
                     "en-US",
                     "zh-CN"
                 ],
@@ -209,6 +211,7 @@
             },
             "mozilla-esr24": {
                 "locales": [
+                    "ar",
                     "en-US",
                     "zh-CN"
                 ],
